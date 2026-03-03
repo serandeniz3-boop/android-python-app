@@ -1,0 +1,20 @@
+{
+  "xp": 113,
+  "completed_lessons": [
+    "u1_01",
+    "u1_02"
+  ],
+  "completed_units": [
+    1
+  ],
+  "badges": [],
+  "quiz_completed": [
+    "u1_01",
+    "u1_02"
+  ],
+  "quiz_streak": 2,
+  "auto_next": true,
+  "last_lesson_id": "u1_01",
+  "avatar_id": "default",
+  "coins": 30
+}
