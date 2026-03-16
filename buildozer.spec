@@ -1,7 +1,7 @@
 [app]
 
-title = Python Ogren Offline
-package.name = pythonogren
+title = Screen Translate
+package.name = screentranslate
 package.domain = org.example
 
 source.dir = .
@@ -33,7 +33,6 @@ android.ndk = 25b
 # Optional: reduce size by removing unused architectures
 android.archs = arm64-v8a,armeabi-v7a
 
-# Permissions (none needed for this offline app)
-android.permissions =
+android.permissions = INTERNET
 
 # If keyboard overlaps, Android usually handles it; in-app ScrollView helps.
